@@ -13,6 +13,7 @@ from core import checks
 from core.models import PermissionLevel
 
 
+
 class CaptchaVerification(commands.Cog):
     """Add captcha verification to your server!"""
 
